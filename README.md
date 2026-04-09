@@ -6,3 +6,4 @@ ClaudeCode adjustments:
   created a .py and .pynb
 
 I am not responsible for any financial decisions. Use at your own risk. 
+Please read USAGE.GUIDE.md
